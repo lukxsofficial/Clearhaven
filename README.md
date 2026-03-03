@@ -59,7 +59,7 @@ Installations Steps:
 3. Use Wabbajack to install Clearhaven.
 
 Clearhaven does not require manual DynDOLOD generation or Grass Cache setup.
-Advanced users may generate their own LOD or grass setups if desired, but this is entirely optional.
+> Advanced users may generate their own LOD or grass setups if desired, but this is entirely optional.
 
 # Maintenance & Updates
 
@@ -74,8 +74,7 @@ Before reporting issues:
 - Ensure the installation was completed correctly.
 - Do not add or remove mods unless you understand the implications.
 
-Modified installations are not supported.
-Support is only provided for the unmodified version of Clearhaven.
+> Modified installations are not supported. Support is only provided for the unmodified version of Clearhaven.
 
 # Why Clearhaven?
 
