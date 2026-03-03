@@ -5,7 +5,7 @@
     "description": "A complete visual makeover of Skyrim while sticking to the original system requirements!",
     "author": "JohnDoe",
     "maintainers": [
-      "github/JohnDoe"
+      ""
     ],
     "game": "skyrimspecialedition",
     "tags": [
@@ -18,10 +18,10 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "image": "https://github.com/lukxsofficial/Clearhaven/blob/74cde458046bda8601b50acf4dce572ce2408e08/Clearhaven.webp",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
+      "download": "",
+      "machineURL": "",
       "discordURL": "https://discord.gg/wabbajack"
     },
     "download_metadata": {
