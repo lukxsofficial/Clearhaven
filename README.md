@@ -14,7 +14,7 @@ Minimal scripting and reduced complexity
 There is no DynDOLOD setup, no Grass Cache generation, and no seasonal overhauls. Installation is straightforward and maintenance is minimal.
 
 # Performance Targets
-> 60-120 FPS in most exterior areas at recommended settings.
+> Stable 60+ FPS in most exterior areas at recommended settings.
 Clearhaven is designed for modern mid-range hardware (2021+).
 
 Recommended for 1080p:
@@ -29,13 +29,13 @@ Recommended for 1440p:
 
 - Ryzen 5 5600 or better
 - RTX 3070 / RX 6700 XT or better
-- 8–12GB VRAM
+- 8 minimum / 12GB VRAM recommended
 - 32Gb RAM recommended
 - 120GB of free SSD Space
 
 Actual performance may vary depending on system configuration.
 
-> Widescreen is not officially supported
+> Ultrawide / Widescreen resolutions are not officially supported.
 
 # Installation
 
