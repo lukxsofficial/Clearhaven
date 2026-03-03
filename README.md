@@ -21,7 +21,7 @@ Recommended for 1080p:
 
 - Ryzen 5 5600 or equivalent
 - RTX 3060 / RX 6600 or better
-- 8GB VRAM minimum
+- 8GB VRAM required
 - 16GB RAM minimum
 - 120GB of free SSD Space
 
@@ -34,6 +34,8 @@ Recommended for 1440p:
 - 120GB of free SSD Space
 
 Actual performance may vary depending on system configuration.
+
+> Widescreen is not officially supported
 
 # Installation
 
