@@ -1,7 +1,7 @@
 # Clearhaven
 Clearhaven is a lightweight Vanilla+ modlist for Skyrim AE built around stability, visual clarity, and performance.
 It does not aim to reinvent Skyrim — it refines it.
-With around 250 carefully selected mods, Clearhaven enhances the base game while preserving its original identity. The goal is simple: Skyrim as you remember it — cleaner, smoother, and more consistent.
+With around 200 carefully selected mods, Clearhaven enhances the base game while preserving its original identity. The goal is simple: Skyrim as you remember it — cleaner, smoother, and more consistent.
 
 # Philosophy
 
