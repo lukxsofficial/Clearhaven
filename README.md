@@ -6,10 +6,11 @@ With around 300 carefully selected mods and a Size of around 120GB Space, Clearh
 # Philosophy
 
 Clearhaven focuses on:
-Visual improvements without overhauling Skyrim’s identity
-First-person friendly gameplay
-Stable performance on modern mid-range systems
-Minimal scripting and reduced complexity
+- Visual improvements without overhauling Skyrim’s identity
+- First-person friendly gameplay
+- Stable performance on modern mid-range systems
+- Minimal scripting and reduced complexity
+- Built around Community Shaders (no ENB)
 
 There is no DynDOLOD setup, no Grass Cache generation, and no seasonal overhauls. Installation is straightforward and maintenance is minimal.
 
