@@ -1,7 +1,7 @@
 # Clearhaven
 Clearhaven is a lightweight Vanilla+ modlist for Skyrim AE built around stability, visual clarity, and performance.
 It does not aim to reinvent Skyrim — it refines it.
-With around 200 carefully selected mods, Clearhaven enhances the base game while preserving its original identity. The goal is simple: Skyrim as you remember it — cleaner, smoother, and more consistent.
+With around 300 carefully selected mods and a Size of around 120GB Space, Clearhaven enhances the base game while preserving its original identity. The goal is simple: Skyrim as you remember it — cleaner, smoother, and more consistent.
 
 # Philosophy
 
@@ -23,6 +23,7 @@ Recommended for 1080p:
 - RTX 3060 / RX 6600 or better
 - 8GB VRAM minimum
 - 16GB RAM minimum
+- 120GB of free SSD Space
 
 Recommended for 1440p:
 
@@ -30,21 +31,33 @@ Recommended for 1440p:
 - RTX 3070 / RX 6700 XT or better
 - 8–12GB VRAM
 - 32Gb RAM optimal
+- 120GB of free SSD Space
 
 Actual performance may vary depending on system configuration.
 
 # Installation
 
+Requirements:
+- Skyrim Anniversary Edition (Steam) – version 1.6.1170
+- Game language must be set to English.
+- All free Creation Club content installed
+- Clean Skyrim installation
+
+> It is recommended to avoid installing Skyrim or the modlist inside protected system folders such as `C:\Program Files`.
+
 Clearhaven is distributed via Wabbajack.
 
-- Install a clean Skyrim Anniversary Edition.
+Recommended: 
+- Nexus Premium for automated Downloads
+- SSD Installation for best perfomance
 
-- Use Wabbajack to install Clearhaven.
+Installations Steps:
+1. Install a clean Skyrim Anniversary Edition.
+2. Launch Skyrim once to download and initialize Creation Club content, then close it.
+3. Use Wabbajack to install Clearhaven.
 
-- Follow the included post-install instructions.
-
-No manual DynDOLOD generation or Grass Cache setup required.
-But if you know what you are doing, you can generate it.
+Clearhaven does not require manual DynDOLOD generation or Grass Cache setup.
+Advanced users may generate their own LOD or grass setups if desired, but this is entirely optional.
 
 # Maintenance & Updates
 
@@ -53,10 +66,16 @@ Updates will be released when meaningful improvements are ready. There is no fix
 
 # Support
 
-Clearhaven is provided as-is.
+Clearhaven is provided in its intended configuration.
 
 Before reporting issues:
-- Ensure you followed installation instructions exactly.
+- Ensure the installation was completed correctly.
 - Do not add or remove mods unless you understand the implications.
 
-Modified installations are not officially supported.
+Modified installations are not supported.
+Support is only provided for the unmodified version of Clearhaven.
+
+# Why Clearhaven?
+
+After building large-scale projects, Clearhaven was created as a simpler alternative — focused on balance, stability, and accessibility.
+A version of Skyrim that feels modern without losing its identity.
