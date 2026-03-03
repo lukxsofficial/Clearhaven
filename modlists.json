@@ -21,8 +21,8 @@
       "image": "https://github.com/lukxsofficial/Clearhaven/blob/74cde458046bda8601b50acf4dce572ce2408e08/Clearhaven.webp",
       "readme": "https://keizaal.github.io/Keizaal/",
       "download": "",
-      "machineURL": "",
-      "discordURL": "https://discord.gg/wabbajack"
+      "machineURL": "Clearhaven",
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
