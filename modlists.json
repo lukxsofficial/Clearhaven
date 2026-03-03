@@ -1,9 +1,9 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Johns Skyrim Makeover",
-    "description": "A complete visual makeover of Skyrim while sticking to the original system requirements!",
-    "author": "JohnDoe",
+    "title": "",
+    "description": "",
+    "author": "",
     "maintainers": [
       ""
     ],
@@ -18,8 +18,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/lukxsofficial/Clearhaven/blob/74cde458046bda8601b50acf4dce572ce2408e08/Clearhaven.webp",
-      "readme": "https://keizaal.github.io/Keizaal/",
+      "image": "https://raw.githubusercontent.com/lukxsofficial/Clearhaven/main/Clearhaven.webp",
+      "readme": "",
       "download": "",
       "machineURL": "Clearhaven",
       "discordURL": ""
